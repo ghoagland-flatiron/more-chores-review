@@ -9,7 +9,7 @@
     {
       "id": 2,
       "title": "Fix Bed",
-      "priority": "Can Wait",
+      "priority": "this a word",
       "duration": "3min"
     },
     {
@@ -17,6 +17,36 @@
       "title": "Catch Matt doing weird things",
       "priority": "MOI IMPORTANTE",
       "duration": "however long it takes"
+    },
+    {
+      "title": "Big O",
+      "duration": "fewfwef",
+      "priority": "hello",
+      "id": 4
+    },
+    {
+      "title": "Research eslint rules",
+      "duration": "2",
+      "priority": "High",
+      "id": 5
+    },
+    {
+      "title": "Research eslint rules",
+      "duration": "2",
+      "priority": "High",
+      "id": 6
+    },
+    {
+      "title": "Research eslint rules",
+      "duration": "2",
+      "priority": "high",
+      "id": 7
+    },
+    {
+      "title": "Linh's task",
+      "duration": "74",
+      "priority": "High",
+      "id": 8
     }
   ]
 }
